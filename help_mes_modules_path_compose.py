@@ -4,7 +4,7 @@
 # Auteur: Marc COATANHAY
 
 """
-    Module pour écrire automatique l'aide d'un module.
+    Module pour écrire un fichier d'aide du module.
 """
 
 # Import des modules
