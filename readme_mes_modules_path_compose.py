@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# Fichier: help_mes_modules_path_compose.py
+# Fichier: readme_mes_modules_path_compose.py
 # Auteur: Marc COATANHAY
 
 """
