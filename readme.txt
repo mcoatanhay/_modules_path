@@ -1,5 +1,5 @@
 Help on module mes_modules_path:
-
+(
 NAME
     mes_modules_path - Ajout du path nécessaire à l'importation de modules personnels.
 
